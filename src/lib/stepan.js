@@ -31,6 +31,6 @@ export default class Stepan {
       this.parent = parent;
     }
 
-    // TODO (Bonus): Ensure that every component returns a top-level root element
+    // /TODO (Bonus): Ensure that every component returns a top-level root element
   }
 }
